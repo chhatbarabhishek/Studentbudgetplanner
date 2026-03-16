@@ -1,0 +1,70 @@
+{
+  "hash": "984122e3",
+  "configHash": "7e943794",
+  "lockfileHash": "2eea6316",
+  "browserHash": "90360205",
+  "optimized": {
+    "@angular/common": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/common.mjs",
+      "file": "@angular_common.js",
+      "fileHash": "fbcffdae",
+      "needsInterop": false
+    },
+    "@angular/common/http": {
+      "src": "../../../../../../node_modules/@angular/common/fesm2022/http.mjs",
+      "file": "@angular_common_http.js",
+      "fileHash": "c0582741",
+      "needsInterop": false
+    },
+    "@angular/core": {
+      "src": "../../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "3c81bcbf",
+      "needsInterop": false
+    },
+    "@angular/forms": {
+      "src": "../../../../../../node_modules/@angular/forms/fesm2022/forms.mjs",
+      "file": "@angular_forms.js",
+      "fileHash": "f921ba37",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "8b391c23",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations": {
+      "src": "../../../../../../node_modules/@angular/platform-browser/fesm2022/animations.mjs",
+      "file": "@angular_platform-browser_animations.js",
+      "fileHash": "b1815004",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "144c9f0d",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-5WY643YN": {
+      "file": "chunk-5WY643YN.js"
+    },
+    "chunk-RTEYIS33": {
+      "file": "chunk-RTEYIS33.js"
+    },
+    "chunk-2IIDJVFT": {
+      "file": "chunk-2IIDJVFT.js"
+    },
+    "chunk-H7H4V4F7": {
+      "file": "chunk-H7H4V4F7.js"
+    },
+    "chunk-YQTN22PE": {
+      "file": "chunk-YQTN22PE.js"
+    },
+    "chunk-JKRINKGA": {
+      "file": "chunk-JKRINKGA.js"
+    }
+  }
+}
