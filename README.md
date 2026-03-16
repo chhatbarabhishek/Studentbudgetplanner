@@ -12,3 +12,5 @@
 
 Tech: Angular 19, Signals, Chart.js, Tailwind CSS
 
+Check demo video for the project 
+
