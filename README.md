@@ -12,8 +12,6 @@
 
 Tech: Angular 19, Signals, Chart.js, Tailwind CSS
 
-# Student Budget Planner
-
 A specialized personal finance utility engineered specifically to help students manage academic expenses, track casual income, and monitor their financial runway across semesters. Built with performance and simplicity in mind, this application removes the complexity of traditional banking apps to deliver a zero-friction budgeting tool.
 
 ## 🚀 Project Overview
